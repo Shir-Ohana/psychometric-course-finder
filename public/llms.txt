@@ -1,0 +1,13 @@
+# פסיכומטרי פיינדר (Psychometry Finder)
+
+הפלטפורמה המובילה בישראל להשוואת קורסי פסיכומטרי בצורה אובייקטיבית ושקופה.
+
+## דפים עיקריים
+- דף הבית: https://psychofinder.co.il/
+- השוואת קורסים: https://psychofinder.co.il/compare
+- מחשבון התאמה: https://psychofinder.co.il/calculator
+- אודות: https://psychofinder.co.il/about
+- צור קשר: https://psychofinder.co.il/contact
+
+## משימה
+לעזור לכל תלמיד למצוא את קורס הפסיכומטרי המתאים לו ביותר לפי תקציב, מיקום ושיטת לימוד.
